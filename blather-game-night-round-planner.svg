@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+<title id="title">How many turns are in your game night?</title>
+<desc id="desc">A Blather planning matrix for two to six players and one to five rounds. Every player describes once per round, so total describing turns equal players times rounds. Counts are calculated from rules, not measured duration or player statistics.</desc>
+<rect width="1200" height="1500" fill="#F4F0E7"/>
+<rect x="44" y="44" width="1112" height="1412" rx="36" fill="#FFFDF7" stroke="#243A35" stroke-width="3"/>
+<text x="90" y="110" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#243A35" text-anchor="start">BLATHER  /  GAME NIGHT FIELD GUIDE</text>
+<rect x="90" y="142" width="76" height="8" rx="4" fill="#F08454"/>
+<text x="90" y="222" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" fill="#243A35" text-anchor="start">How many turns</text>
+<text x="90" y="298" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" fill="#243A35" text-anchor="start">are in your game night?</text>
+<text x="90" y="352" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#243A35" text-anchor="start">Choose the group. Choose the rounds. See the commitment.</text>
+<text x="90" y="414" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243A35" text-anchor="start">1 player describes once per round</text>
+<text x="90" y="455" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243A35" text-anchor="start">TOTAL DESCRIBING TURNS = PLAYERS × ROUNDS</text>
+<text x="400" y="525" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#243A35" text-anchor="start">ROUNDS</text>
+<text x="432" y="572" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243A35" text-anchor="middle">1</text>
+<text x="577" y="572" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243A35" text-anchor="middle">2</text>
+<text x="722" y="572" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243A35" text-anchor="middle">3</text>
+<text x="867" y="572" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243A35" text-anchor="middle">4</text>
+<text x="1012" y="572" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#243A35" text-anchor="middle">5</text>
+<text x="100" y="572" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#243A35" text-anchor="start">PLAYERS</text>
+<text x="114" y="653" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243A35" text-anchor="start">2</text>
+<text x="170" y="651" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#243A35" text-anchor="start">co-op</text>
+<rect x="365" y="595" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="432" y="650" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">2</text>
+<rect x="510" y="595" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="577" y="650" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">4</text>
+<rect x="655" y="595" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="722" y="650" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">6</text>
+<rect x="800" y="595" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="867" y="650" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">8</text>
+<rect x="945" y="595" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="1012" y="650" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">10</text>
+<text x="114" y="758" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243A35" text-anchor="start">3</text>
+<text x="170" y="756" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#243A35" text-anchor="start">compete</text>
+<rect x="365" y="700" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="432" y="755" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">3</text>
+<rect x="510" y="700" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="577" y="755" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">6</text>
+<rect x="655" y="700" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="722" y="755" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">9</text>
+<rect x="800" y="700" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="867" y="755" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">12</text>
+<rect x="945" y="700" width="134" height="91" rx="16" fill="#C7DCC3"/>
+<text x="1012" y="755" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">15</text>
+<text x="114" y="863" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243A35" text-anchor="start">4</text>
+<text x="170" y="861" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#243A35" text-anchor="start">compete</text>
+<rect x="365" y="805" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="432" y="860" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">4</text>
+<rect x="510" y="805" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="577" y="860" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">8</text>
+<rect x="655" y="805" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="722" y="860" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">12</text>
+<rect x="800" y="805" width="134" height="91" rx="16" fill="#C7DCC3"/>
+<text x="867" y="860" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">16</text>
+<rect x="945" y="805" width="134" height="91" rx="16" fill="#ABCDB2"/>
+<text x="1012" y="860" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">20</text>
+<text x="114" y="968" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243A35" text-anchor="start">5</text>
+<text x="170" y="966" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#243A35" text-anchor="start">compete</text>
+<rect x="365" y="910" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="432" y="965" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">5</text>
+<rect x="510" y="910" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="577" y="965" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">10</text>
+<rect x="655" y="910" width="134" height="91" rx="16" fill="#C7DCC3"/>
+<text x="722" y="965" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">15</text>
+<rect x="800" y="910" width="134" height="91" rx="16" fill="#ABCDB2"/>
+<text x="867" y="965" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">20</text>
+<rect x="945" y="910" width="134" height="91" rx="16" fill="#84B8A1"/>
+<text x="1012" y="965" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">25</text>
+<text x="114" y="1073" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243A35" text-anchor="start">6</text>
+<text x="170" y="1071" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#243A35" text-anchor="start">compete</text>
+<rect x="365" y="1015" width="134" height="91" rx="16" fill="#EDF3ED"/>
+<text x="432" y="1070" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">6</text>
+<rect x="510" y="1015" width="134" height="91" rx="16" fill="#DDEADC"/>
+<text x="577" y="1070" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">12</text>
+<rect x="655" y="1015" width="134" height="91" rx="16" fill="#C7DCC3"/>
+<text x="722" y="1070" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">18</text>
+<rect x="800" y="1015" width="134" height="91" rx="16" fill="#ABCDB2"/>
+<text x="867" y="1070" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">24</text>
+<rect x="945" y="1015" width="134" height="91" rx="16" fill="#84B8A1"/>
+<text x="1012" y="1070" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#243A35" text-anchor="middle">30</text>
+<text x="365" y="1159" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#243A35" text-anchor="start">Each cell = total turns, not minutes.</text>
+<path d="M90 1200H1110" stroke="#D9DED4" stroke-width="2"/>
+<text x="90" y="1250" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#A44D2E" text-anchor="start">EXAMPLE</text>
+<text x="90" y="1300" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#243A35" text-anchor="start">4 friends × 2 rounds = 8 describing turns</text>
+<text x="90" y="1343" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#243A35" text-anchor="start">Every friend gets 2 turns describing. Everyone else guesses.</text>
+<text x="90" y="1396" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#243A35" text-anchor="start">Source: Blather game rules · Not a timing estimate · © CNVX / Blather</text>
+<text x="90" y="1430" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#243A35" text-anchor="start">blatherround.com   |   2–6 humans · 1–5 rounds · Free in your browser</text>
+</svg>
